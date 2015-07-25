@@ -1,7 +1,7 @@
 {
-  "name": "persistit",
+  "name": "persistable-object",
   "version": "0.1.0",
-  "description": "PersistIt provides a persistable JS object.",
+  "description": "persistable-object provides a persistable JS object.",
   "main": "app.js",
   "directories": {
     "test": "test"
