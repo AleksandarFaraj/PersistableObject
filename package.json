@@ -6,11 +6,11 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chance": "^0.7.6",
-    "lodash": "^3.10.0"
+    "lodash": "^3.10.0",
+    "mocha": "^2.2.5"
   },
   "scripts": {
     "test": "mocha"
@@ -30,4 +30,3 @@
   },
   "homepage": "https://github.com/AleksandarFaraj/PersistableObject"
 }
-
