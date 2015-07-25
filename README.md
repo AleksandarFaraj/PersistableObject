@@ -1,4 +1,4 @@
-# PersistableObject
+# PersistableObject [![Build Status](https://travis-ci.org/AleksandarFaraj/PersistableObject.svg?branch=master)](https://travis-ci.org/AleksandarFaraj/PersistableObject)
 A JS object which you can persist easily.
 
 ## Installation:
