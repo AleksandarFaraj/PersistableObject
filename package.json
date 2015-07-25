@@ -1,6 +1,6 @@
 {
   "name": "persistable-object",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "persistable-object provides a persistable JS object.",
   "main": "app.js",
   "directories": {
