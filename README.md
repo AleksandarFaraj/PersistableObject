@@ -1,4 +1,5 @@
-# PersistableObject [![Build Status](https://travis-ci.org/AleksandarFaraj/PersistableObject.svg?branch=master)](https://travis-ci.org/AleksandarFaraj/PersistableObject)
+# PersistableObject
+[![Build Status](https://travis-ci.org/AleksandarFaraj/PersistableObject.svg?branch=master)](https://travis-ci.org/AleksandarFaraj/PersistableObject)
 A JS object which you can persist easily.
 
 ## Installation:
@@ -25,3 +26,5 @@ PersistableObject provides you an object which can be persisted.
 
     //persists the object to yourpo.json
     po.save();
+
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
